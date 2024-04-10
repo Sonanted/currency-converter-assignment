@@ -63,7 +63,7 @@ python3 app/manage.py runserver
 1. Перейти в корневую директорию и собрать докер образ командой:
 
 ```bash
-docker build -t converter_app
+docker build -t converter_app .
 ```
 
 2. Запустить контейнер командой:
