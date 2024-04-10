@@ -1,3 +1,6 @@
 django==4.2
 djangorestframework>=3.15.1
 requests>=2.31.0
+drf-yasg>=1.21.7
+python-dotenv>=1.0.1
+django-rest-swagger>=2.2
