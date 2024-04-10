@@ -49,13 +49,13 @@ pip install -r requirements.txt
 4. Выполнить миграции:
 
 ```bash
-python3 manage.py migrate
+python3 app/manage.py migrate
 ```
 
 5. Запустить приложение (по умолчанию запускается на порте 8000):
 
 ```bash
-python3 manage.py runserver
+python3 app/manage.py runserver
 ```
 
 ## Запуск докер контейнера
